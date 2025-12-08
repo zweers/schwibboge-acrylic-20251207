@@ -1,4 +1,14 @@
-list of material: 
+There are 3 different SB designs, all slightly different. 
+
+-acrylic uses 3mm bolts and nuts. easy but a bit rude
+
+-acrylic wooden pins uses 4mm wooden dowels to join the plywood. requires glue
+
+-acrylic loops uses wooden rings around the plywood to keep the plywood together
+
+- you can also leave the connectors altogether and glue the plywood together. in that case use acrylic-drawing and skip the 4 holes for the screws, but not the 2 holes for the PCB 
+
+ list of material: 
 
 -3mm plywood
 
